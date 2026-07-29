@@ -5,6 +5,15 @@ However, raw data requires cleaning, transformation, and analysis to generate me
 You will build a data analysis pipeline using NumPy, Pandas, Matplotlib, and Seaborn to clean data, 
 perform analysis, visualize patterns, and derive actionable business insights. 
 
+## Task 1 – Data Import & Setup
+## Task 2 – Data Cleaning
+## Task 3 – Feature Engineering
+## Task 4 – Data Exploration
+## Task 5 – Data Wrangling
+## Task 6 – Statistical Analysis
+## Task 7 – Data Visualization
+
+Libraries used: Numpy, Pandas, Matplotlib & Seaborn
 
 Business Insights:
 
